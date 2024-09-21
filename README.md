@@ -1,0 +1,3 @@
+QR2file 是一个开源项目，旨在将文件内容编码成二维码，并通过智能手机扫描实现快速解码和文件保存。用户可以通过这个工具轻松分享文件，无需通过电子邮件或即时消息应用程序发送附件。该项目使用现代二维码生成和解码技术，确保了数据传输的便捷性和安全性。QR2file 支持多种文件格式，包括文本文件、图片、PDF文档等，是一个多功能的文件分享解决方案。
+
+QR2file is an open-source project designed to encode file contents into QR codes for quick decoding and file saving via smartphone scanning. It allows users to effortlessly share files without the need to send attachments through email or instant messaging apps. Utilizing contemporary QR code generation and decoding technologies, the project ensures convenience and security in data transfer. QR2file supports a variety of file formats, including text files, images, PDF documents, and more, making it a versatile file-sharing solution.
